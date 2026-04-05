@@ -1,7 +1,7 @@
 # yuketangHelperSCUTLite
 华工本科生雨课堂刷课脚本
 
-#### 注意使用scut.yuketang
+## 注意使用scut.yuketang
 changjiang.yuketang 无法使用
 
 #### 说点什么：
